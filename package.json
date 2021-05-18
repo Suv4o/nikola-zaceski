@@ -1,0 +1,23 @@
+{
+  "name": "website-nikola-zaceski-singer",
+  "version": "1.0.0",
+  "description": "Nikola Zaceski First Website Portfolio",
+  "author": "Aleksandar Trpkovski",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "nuxt": "^2.0.0",
+    "vue2-touch-events": "^2.3.2"
+  },
+  "devDependencies": {
+    "@nuxtjs/style-resources": "^1.0.0",
+    "node-sass": "^4.14.1",
+    "nodemon": "^1.18.9",
+    "sass-loader": "^10.0.2"
+  }
+}

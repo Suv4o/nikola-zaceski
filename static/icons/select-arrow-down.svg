@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Control" opacity="0.4">
+    <rect id="Control_background" data-name="Control background" width="24" height="24" fill="rgba(0,0,0,0)"/>
+    <path id="Line" d="M10,0,5,6,0,0Z" transform="translate(7 9)" fill="#fff"/>
+  </g>
+</svg>
